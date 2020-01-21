@@ -1,0 +1,16 @@
+// edit KENDO Tabstrip
+.k-tabstrip-items {
+  padding: 0 15px;
+  text-transform: unset;
+  .k-item .k-link {
+    padding: 10px 20px;
+  }
+}
+
+.k-textbox,
+.k-dropdown,
+.k-dropdowntree {
+  width: 100%;
+  color: #99A4AE;
+  font-size: 13px;
+}

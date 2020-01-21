@@ -1,0 +1,27 @@
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #03a9f4;
+    border-radius: 2px;
+}
+::-webkit-scrollbar-track {
+  background: #fff; 
+}
+// Placeholder
+::-webkit-input-placeholder {
+   color: #99A4AE;
+}
+ 
+:-moz-placeholder { /* Firefox 18- */
+   color: #99A4AE;  
+}
+ 
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #99A4AE;  
+}
+ 
+:-ms-input-placeholder {  
+   color: #99A4AE;  
+}

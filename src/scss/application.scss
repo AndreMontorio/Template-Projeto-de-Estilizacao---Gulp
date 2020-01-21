@@ -1,0 +1,12 @@
+// ALL
+@import "./variables";
+@import '../../node_modules/@progress/kendo-theme-material/scss/all';
+
+// Customizados
+@import "./fonts";
+@import "./Kendo Components/kendo-styles";
+@import "./global";
+@import "./scroll";
+@import "./backdrop";
+@import "./buttons";
+@import "./buttongroup";
