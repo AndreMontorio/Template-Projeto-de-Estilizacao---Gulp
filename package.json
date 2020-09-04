@@ -16,7 +16,7 @@
     "gulp-babel": "^8.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-watch": "^5.0.1",
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "@progress/kendo-theme-material": "^3.8.0",
